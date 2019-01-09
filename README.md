@@ -1,4 +1,4 @@
-# JollyDodgerGame
+# Jolly Dodger Game
 Pirate ship game, created by myself. 
 
 ## Getting Started
